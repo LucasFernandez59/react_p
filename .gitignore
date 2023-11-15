@@ -28,7 +28,6 @@ dist-ssr
 Thumbs.db
 
 # Styles or build artifacts
-*.css
 *.map
 *.min.js
 
