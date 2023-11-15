@@ -1,7 +1,7 @@
-# test
+# react portfolio
 
   ## Description
-  test
+  portfolio made with react and bootstrap
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,15 +14,15 @@
 
   ## Installation
   <a id="installation"></a>
-  test
+  n/a
 
   ## Usage
   <a id="usage"></a>
-  tes
+  n/a
 
   ## Contributing
   <a id="contributing"></a>
-  tes
+  n/a
 
   ## License
   <a id="license"></a>
@@ -35,9 +35,9 @@
 
   ## Tests
   <a id="tests"></a>
-  tes
+  n/a
 
   ## Questions
   <a id="questions"></a>
-  test
-  test
+  LucasFernandez59
+  che.fernandez255@gmail.com
